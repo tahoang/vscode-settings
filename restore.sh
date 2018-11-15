@@ -1,3 +1,3 @@
 #!/bin/bash
 # for mac
-cp -a ./vscode/. ~/Library/Application\ Support/Code/User/
+cp -a ./vscode/. ~/Library/Application\ Support/Code/User/.

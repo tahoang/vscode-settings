@@ -1,4 +1,6 @@
 {
+    "workbench.colorTheme": "Monokai Phoenix",
     "editor.tabSize": 2,
-    "workbench.colorTheme": "Monokai Phoenix"
+    "workbench.editor.showTabs": false,
+    "git.autofetch": true
 }
