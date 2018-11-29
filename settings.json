@@ -2,5 +2,6 @@
     "workbench.colorTheme": "Monokai Phoenix",
     "editor.tabSize": 2,
     "workbench.editor.showTabs": false,
-    "git.autofetch": true
+    "git.autofetch": true,
+    "explorer.confirmDragAndDrop": false
 }
